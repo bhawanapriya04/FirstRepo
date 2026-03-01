@@ -1,3 +1,0 @@
-File is already created but now we are adding content to it and will type 
-# git pull
-we'll see the change once the command is used
